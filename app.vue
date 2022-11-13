@@ -12,5 +12,7 @@
         Click me
       </button>
     </ToolTip>
+
+    <TicTacToe />
   </div>
 </template>
